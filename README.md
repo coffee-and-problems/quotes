@@ -13,3 +13,13 @@
 ![Лосяш](losyash.jpg)
 
 ---
+
+### Barney Stinson
+
+> Legen... wait for it... dary! LEGENDARY!
+
+[![Barney Stinson](barney.jpg)](https://www.youtube.com/watch?v=nWdkQp_r8Uw)
+
+
+---
+
