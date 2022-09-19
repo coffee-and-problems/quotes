@@ -23,3 +23,9 @@
 
 ---
 
+### Finn the human
+
+> Homies help homies. ALWAYS.
+
+![Finn](finn.png)
+
