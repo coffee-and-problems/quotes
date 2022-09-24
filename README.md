@@ -1,8 +1,8 @@
 ### Zhongli
 
 > Osmanthus wine tastes the same as I remember
-
 ![Zhongli](thisisorded.jpg)
+
 
 ---
 
@@ -28,4 +28,17 @@
 > Homies help homies. ALWAYS.
 
 ![Finn](finn.png)
+
+
+---
+
+### Тостер
+
+> Тостер — это всего лишь луч смерти с недостаточным энергопитанием! Как только я пойму, как мне подключиться к главным реакторам, я СОЖГУ МИР!
+ 
+![Тостер](toster.jpg)
+
+
+---
+
 
